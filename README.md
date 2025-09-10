@@ -2,6 +2,8 @@
 
 A simple Python-based voice assistant that recognizes speech, responds with voice, and performs tasks like opening Chrome, telling time, and playing YouTube videos.  
 
+
+
 FEATURES:
 🎤 Speech recognition using Google API (`speech_recognition`)  
 🗣️ Voice responses with `pyttsx3`  
@@ -9,6 +11,8 @@ FEATURES:
 ⏰ Get the current time  
 🎶 Play songs or videos directly from **YouTube** (`pywhatkit`)  
 📺 Open YouTube in the browser  
+
+
 
 TECH STACK:
 Python 3.12+
